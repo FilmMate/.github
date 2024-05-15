@@ -49,6 +49,6 @@ FilmMate is a project developed as part of our 6th-semester mini project prescri
 
 You can download FilmMate (APK file) from the following link:
 
-- [FilmMate APK](link-to-apk-file)
+- [FilmMate APK](https://github.com/FilmMate/frontend/releases/tag/v1.54-demo)
 
 ⚠️ Please note that this is a demo version for testing purposes.
