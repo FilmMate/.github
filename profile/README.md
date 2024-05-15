@@ -12,7 +12,7 @@ FilmMate is a project developed as part of our 6th-semester mini project prescri
 | [Technology Stack](#Technology-stack-) |
 | [Repositories](#Repositories-)       |
 | [Contributors](#Contributors-)       |
-
+| [Download APK to test FilmMate](#release-)|
 
 ## Screenshots
 
@@ -29,7 +29,7 @@ FilmMate is a project developed as part of our 6th-semester mini project prescri
 ## Technology Stack 💻
 
 - **Frontend**: Flutter with BLoC state management 📱
-- **Backend**: Python Flask 🐍
+- **Backend**: Python Flask hosted on [PythonAnywhere](https://www.pythonanywhere.com/) 🐍
 - **Database**: Hive for local storage 🗄️
 - **API**: TMDB API for fetching movie and TV show data 🌐
 
@@ -45,4 +45,10 @@ FilmMate is a project developed as part of our 6th-semester mini project prescri
 - [Nikhil S](https://github.com/NikhilS-IT)
 - [Niya Brijith James](https://github.com/Niya-Brijith-James)
 
+## Release 🚀
 
+You can download FilmMate (APK file) from the following link:
+
+- [FilmMate APK](link-to-apk-file)
+
+⚠️ Please note that this is a demo version for testing purposes.
