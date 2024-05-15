@@ -8,10 +8,10 @@ FilmMate is a project developed as part of our 6th-semester mini project prescri
 | Table of Contents |
 |------------------|
 | [Screenshots](#Screenshots)        |
-| [Features](#Features)               |
-| [Technology Stack](#Technology-stack) |
-| [Repositories](#Repositories)       |
-| [Contributors](#Contributors)       |
+| [Features](#Features-)               |
+| [Technology Stack](#Technology-stack-) |
+| [Repositories](#Repositories-)       |
+| [Contributors](#Contributors-)       |
 
 
 ## Screenshots
