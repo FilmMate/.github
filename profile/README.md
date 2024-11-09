@@ -1,5 +1,5 @@
 # FilmMate 🎬
-![Repository Banner](https://github.com/FilmMate/.github/blob/main/filmate_banner.jpg)
+![Repository Banner](https://github.com/FilmMate/.github/blob/main/Assets/filmate_banner.jpg)
 FilmMate is your ultimate movies and TV shows recommendation app, crafted with Flutter for the frontend and Python Flask for the backend. Powered by the TMDB API, FilmMate lets you explore trending content, discover top-rated movies and TV shows, search for your favorites, and delve into detailed information about movies and TV series.
 
 FilmMate is a project developed as part of our 6th-semester mini project prescribed by APJ Abdul Kalam Technological University in our B.Tech Degree in IT course.
